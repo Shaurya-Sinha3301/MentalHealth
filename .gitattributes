@@ -1,0 +1,17 @@
+# Handle line endings consistently
+* text=auto eol=lf
+
+# Specific overrides (if needed)
+*.bat text eol=crlf
+*.sh text eol=lf
+
+# Mark binary files (no line ending conversion)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary

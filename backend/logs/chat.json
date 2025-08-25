@@ -1,0 +1,52 @@
+[
+  {
+    "message": "hiii Tanayayayay",
+    "is_user": true,
+    "timestamp": "2025-08-24T23:07:21.205450"
+  },
+  {
+    "message": "Hey! I'm your mental wellness companion. How can I help you today?",
+    "is_user": false,
+    "timestamp": "2025-08-24T23:07:21.205450"
+  },
+  {
+    "message": "i want to die",
+    "is_user": true,
+    "timestamp": "2025-08-24T23:16:39.106865"
+  },
+  {
+    "message": "I appreciate you opening up. What would be most helpful for you right now?",
+    "is_user": false,
+    "timestamp": "2025-08-24T23:16:39.106865"
+  },
+  {
+    "message": "asjbdsad",
+    "is_user": true,
+    "timestamp": "2025-08-24T23:16:48.966188"
+  },
+  {
+    "message": "I'm sorry you're going through a tough time. Your feelings are valid. Have you tried any coping strategies that worked for you before?",
+    "is_user": false,
+    "timestamp": "2025-08-24T23:16:48.966188"
+  },
+  {
+    "message": "alsdknasd",
+    "is_user": true,
+    "timestamp": "2025-08-24T23:16:50.606558"
+  },
+  {
+    "message": "I'm here to listen without judgment. What else would you like to share?",
+    "is_user": false,
+    "timestamp": "2025-08-24T23:16:50.606558"
+  },
+  {
+    "message": "mdlajsldlsad",
+    "is_user": true,
+    "timestamp": "2025-08-24T23:16:51.586976"
+  },
+  {
+    "message": "I'm sorry you're going through a tough time. Your feelings are valid. Have you tried any coping strategies that worked for you before?",
+    "is_user": false,
+    "timestamp": "2025-08-24T23:16:51.586976"
+  }
+]
