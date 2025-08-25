@@ -24,7 +24,7 @@ A modern web application that analyzes journal entries to provide insights into 
 cd backend
 python -m venv venv
 venv\Scripts\activate  # Windows
-# source venv/bin/activate  # macOS/Linux
+source venv/bin/activate  # macOS/Linux
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
